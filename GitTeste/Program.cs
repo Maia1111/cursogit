@@ -5,6 +5,7 @@ namespace GitTeste
     class Program
     {
         static void Main(string[] args) {
+            Console.WriteLine("____________________________________________");
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("bom dia");
             Console.WriteLine("Boa tarde");
