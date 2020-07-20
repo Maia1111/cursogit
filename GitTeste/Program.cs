@@ -7,6 +7,7 @@ namespace GitTeste
         static void Main(string[] args) {
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("bom dia");
+            Console.WriteLine("Boa tarde");
         }
     }
 }
